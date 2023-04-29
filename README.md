@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**zsoolti8917/zsoolti8917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Welcome to my Github page! My name is Zsolt Varjú, and I am currently studying applied informatics in Slovakia while working as a visual web tester. In my current role, I review websites for cities and organizations, identify any discrepancies between the design files, and communicate revisions to frontend developers. As a result, I have developed a keen eye for identifying and troubleshooting problems in HTML and CSS.
 
 My experience in this position has fueled my interest in frontend development, and I am currently learning SCSS and React. I enjoy working on 3D projects and modeling, and when I am not coding, you can find me skiing down a mountain slope.
